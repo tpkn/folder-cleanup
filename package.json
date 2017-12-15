@@ -1,0 +1,23 @@
+{
+   "name": "folder-cleanup",
+   "main": "folder-cleanup.js",
+   "version": "1.0.1",
+   "author": {
+      "url": "https://github.com/tpkn/"
+   },
+   "dependencies": {
+      "fs-extra": "latest",
+      "string-to-ms": "latest"
+   },
+   "repository": "https://github.com/tpkn/folder-cleanup",
+   "license": "MIT",
+   "keywords": [
+      "folder",
+      "cleanup",
+      "cron",
+      "delete",
+      "remove",
+      "express",
+      "server"
+   ]
+}
