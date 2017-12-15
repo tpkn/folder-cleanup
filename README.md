@@ -1,5 +1,5 @@
 # Folder Cleanup
-Help you remove old files and folders
+Helps you remove old files and folders
 
 
 A convenient way to rid of files and folders that are older than specified amount of time.
