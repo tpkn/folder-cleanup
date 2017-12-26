@@ -18,4 +18,4 @@ let temp_uploads = '/usr/www/domain.me/temp_uploads';
 cleanup(temp_uploads, max_age);
 ```
 
-People who are feeling nauseous just thinking of how they will converting 90 weeks into milliseconds, could use already [built in time converter](https://www.npmjs.com/package/string-to-ms).
+People who are feeling nauseous just thinking of how they will converting 90 weeks into milliseconds, could use already [built-in time converter](https://www.npmjs.com/package/string-to-ms).
